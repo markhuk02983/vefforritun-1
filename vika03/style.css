@@ -1,0 +1,26 @@
+body  {
+    font-family: arial, sans-serif;
+    color: #2222;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
+
+h1,h2 {
+    color: #1a365d;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav a {
+    color: #0d6efd;
+}
+
+.inngangur{
+    background-color: #ffff;
+}
+
+.inngangur p{
+    font-size: 1.1rem;
+}
